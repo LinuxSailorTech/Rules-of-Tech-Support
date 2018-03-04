@@ -4,8 +4,10 @@ Suggestion: Use the Rules numbers for TLDR sections.
 Created from and contributed to by the users of /r/talesfromtechsupport
 
 # [](#header-1)Users
-Rule 1 - Users lie.
-Rule 1A - It may not be malicious or willful, but Rule 1 is always in effect.
+## [](#header-2)Rule 1
+ - Users lie.
+### [](#header-3)Rule 1A
+ - It may not be malicious or willful, but Rule 1 is always in effect.
 
 Rule 1B - Users assume you don't know they are lying.
 
