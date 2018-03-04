@@ -2,7 +2,7 @@
 
 <h2><strong>Suggestion: Use the Rules numbers for TLDR sections.</strong></h2>
 
-<p>Created from and contributed to by the users of <a href="/r/talesfromtechsupport">/r/talesfromtechsupport</a></p>
+<p>Created from and contributed to by the users of <a href="https://www.reddit.com/r/talesfromtechsupport/">/r/talesfromtechsupport</a></p>
 
 <hr/>
 
