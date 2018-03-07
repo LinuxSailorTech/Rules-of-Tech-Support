@@ -731,4 +731,8 @@ That we can now do anything with nothing.</p>
 
 <p><strong>Changelog 121117</strong> - Added 2A, 6B, 8D, 13A, 21A, 29B, W18D, W24B, W36A, W44-W49, T2A, T4A, T15A, T22A, T22B, T31A, T23A, T38-T40, M3B. Modified T37. Added Footnote, Links, and Versions sections.</p>
 
+<<<<<<< HEAD
 <p><strong>Changelog 120917</strong> - Added Rules 21, 42, 99, W40, W41, W42, T35, T36. Modified Intro, W5C. Added Management and Changelog sections.  Moved T17 to M2. Moved T23 to M3. Moved T23C to M4. Moved T38 to M1. Rules below T17 have new numbers.</p>
+=======
+<p><strong>Changelog 120917</strong> - Added Rules 21, 42, 99, W40, W41, W42, T35, T36. Modified Intro, W5C. Added Management and Changelog sections.  Moved T17 to M2. Moved T23 to M3. Moved T23C to M4. Moved T38 to M1. Rules below T17 have new numbers.</p>
+>>>>>>> a38aad94a75700a2f51e68961af252e75fe19974
