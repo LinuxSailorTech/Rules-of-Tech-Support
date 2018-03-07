@@ -696,3 +696,39 @@ That we can now do anything with nothing.</p>
 <p>**Link L6 - <a href="http://www.diploma-degree.com/111753-Certificate-of-Proficiency-in-Computering">http://www.diploma-degree.com/111753-Certificate-of-Proficiency-in-Computering</a></p>
 
 <hr/>
+
+<h1><strong>Previous versions</strong></h1>
+
+<hr/>
+
+<h1>**PV1 - <a href="https://www.reddit.com/r/talesfromtechsupport/comments/7ddtpq/rules_of_tech_support_with_credits/">https://www.reddit.com/r/talesfromtechsupport/comments/7ddtpq/rules_of_tech_support_with_credits/</a></h1>
+
+<h1>**PV2 - <a href="https://www.reddit.com/r/talesfromtechsupport/comments/7efnva/rules_of_tech_support_version_2/">https://www.reddit.com/r/talesfromtechsupport/comments/7efnva/rules_of_tech_support_version_2/</a></h1>
+
+<h1>**PV3 - <a href="https://www.reddit.com/r/talesfromtechsupport/comments/7iqhnq/rules_of_tech_support_version_3/">https://www.reddit.com/r/talesfromtechsupport/comments/7iqhnq/rules_of_tech_support_version_3/</a></h1>
+
+<h1>**PV4 -<a href="https://www.reddit.com/r/talesfromtechsupport/comments/81ce8r/rules_of_tech_support_version_4_or_032018/">https://www.reddit.com/r/talesfromtechsupport/comments/81ce8r/rules_of_tech_support_version_4_or_032018/</a></h1>
+
+<hr/>
+
+<hr/>
+
+<h1><strong>Changelogs</strong></h1>
+
+<hr/>
+
+<hr/>
+
+<p><strong>Changelog 2018-03-05</strong> - Added 27, F8.</p>
+
+<p><strong>Changelog 2018-03-04</strong> - Modified 14, 26, 8D, 18D, W26, T25, T44, M7C. Removed W34A, T34A. Added 26B, W2A, W59, T50, T51, T52, M12, P2. Simplified Reddit format for Rule numbers. Date error in post title noted.</p>
+
+<p><strong>Changelog 2018-03-03</strong> - Modified Intro, 5B, 5C, 8D, 18C, 18D, 22, W26A, T2B, T12, T14, T14A, T16, T21B, T44, F4. Added 8E, 22A, 26, 26A, B1N6, W9A, W23-W23D, W23C, W54-W58, T3B, T29B, T31B, T47-T49A, T1000, M11, P1, OM1, OM2, F6, F7, L4, L5. Added Phrases and Mantras section. Bolded or italicized references to other Rules.</p>
+
+<p><strong>Changelog 0318</strong> - Modified 27A, 69, 99, W30, W48, T39, T41, M7B. Feedback F4. Added 23, 24, 25, 99A, W16A, W17B, W18D, W18DD, W26A, W52, W53, T35B, T44, T45, T46, M7B, M8, M9, M10, F5, PV3.</p>
+
+<p><strong>Changelog 122017</strong> - Removed F1 and L2. Moved T40 to 2B, L3 to L2. Modified Intro, T2A. Changed name of the Footnote section to Feedback. Replaced &quot;an&quot; with &quot;a&quot;. Added 22, W50, W51, T40, T41, T42, T43, M7, F2, F3, F4. Fixed formatting for 9, W48.</p>
+
+<p><strong>Changelog 121117</strong> - Added 2A, 6B, 8D, 13A, 21A, 29B, W18D, W24B, W36A, W44-W49, T2A, T4A, T15A, T22A, T22B, T31A, T23A, T38-T40, M3B. Modified T37. Added Footnote, Links, and Versions sections.</p>
+
+<p><strong>Changelog 120917</strong> - Added Rules 21, 42, 99, W40, W41, W42, T35, T36. Modified Intro, W5C. Added Management and Changelog sections.  Moved T17 to M2. Moved T23 to M3. Moved T23C to M4. Moved T38 to M1. Rules below T17 have new numbers.</p>
