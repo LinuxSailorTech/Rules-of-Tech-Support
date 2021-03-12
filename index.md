@@ -550,9 +550,11 @@
 
 <h2>Rule T47 - Some bugs are Heisenbugs; they can only occur if they are not being observed. Users do not count as observers.</h2>
 
+<h2>Rule T48 - Something will be needed right after you get rid of it.</h2>
+
 <p><strong>Rule T48A</strong> - Once you replace it, you will no longer need it.</p>
 
-<h2>Rule T48B** - You will buy something and then find out that what you currently have already has what you needed.</h2>
+<p><strong>Rule T48B</strong> - You will buy something and then find out that what you currently have already has what you needed.</p>
 
 <h2>Rule T49 - User managed projects will always fail.</h2>
 
