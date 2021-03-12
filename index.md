@@ -566,7 +566,7 @@
 
 <h2>Rule T52 - Cables look just like ropes...</h2>
 
-<h2>Rule T53 - Finagle's law of dynamic negatives is always in operation (Link L7)</h2>
+<h2>Rule T53 - Finagle's law of dynamic negatives is always in operation. See Link L7.</h2>
 
 <hr>
 
